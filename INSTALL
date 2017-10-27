@@ -1,0 +1,9 @@
+#######################################################################
+# In order to install this project, you will need following components:
+#######################################################################
+
+sudo apt-get install python3-pip  python-jinja2
+pip3 install markdown2
+sudo apt install python-pip
+pip install --upgrade pip
+pip install markdown2
